@@ -25,16 +25,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create a Resource Group
+- Step 2: Create a Virtual Machine (Windows)
+- Step 3: Create a Virtual Machine (Ubuntu)
+- Step 4: Observe ICMP Traffic
+- Step 5: Observe SSH Traffic
+- Step 6: Observe DHCP Traffic
+- Step 7: Observe DNS Traffic
+- Step 8: Observe RDP Traffic
+- Step 9: Clean Up Your Azure Environment
+
 
 <h2>Actions and Observations</h2>
 
 
 
-Step by-step guide on how to observe network traffic to and from Azure Virtual Machines using Wireshark and experiment with Network Security Groups (NSGs):
+Step-by-step guide on how to observe network traffic to and from Azure Virtual Machines using Wireshark and experiment with Network Security Groups (NSGs):
 
 Note: Before proceeding with the steps, make sure you have a Microsoft Azure subscription and access to the Azure portal.
 
